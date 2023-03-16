@@ -8,21 +8,21 @@ This is a demo for image classification and image prediction, with pre-trained m
 
 # Requirement
 
-python
-
-torch
-
-torchvision
-
+```
+python >= 3.8
+torch >=1.13
+torchvision >=0.14
+tqdm
 cuda
-
-tqdm 
-
+cv2
 ......
+```
+
+
 
 # Usage
 
-* Only one file in this repo,  you can download the image_classify_demo_0301.py and run it with any python IDE
+* Only one file in this repository,  you can download the image_classify_demo_0301.py and run it with any python IDE
 
 * modify all infomation using your own address, like the directory of dataset and other hyper-parameters
 
